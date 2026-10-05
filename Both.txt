@@ -1,7 +1,1 @@
-<<<<<<< HEAD
-asdf
-test for 1.4
-=======
-change4
-change for 1.4
->>>>>>> sofya-branch
+this is the END
